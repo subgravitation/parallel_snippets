@@ -20,4 +20,6 @@
  */
 void find_substring(const std::string& filename, const std::string& value);
 
+std::string copy_string(const std::string& input);
+
 #endif
